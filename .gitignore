@@ -1,0 +1,17 @@
+# Genel
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Qt
+*.Cmake.stash
+*.Cmake.cache
+
+# STM32 Derleme Dosyaları
+/build/
+/Debug/
+/Release/
+*.elf
+*.bin
+*.hex
