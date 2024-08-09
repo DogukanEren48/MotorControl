@@ -1,0 +1,9 @@
+# ninja log v6
+18	132	7448223868571163	stepper_motor_control_autogen/timestamp	aef1838c9526aa86
+18	132	7448223868571163	stepper_motor_control_autogen/mocs_compilation.cpp	aef1838c9526aa86
+18	132	7448223868571163	C:/Users/monster/Documents/stepper_motor_control/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/stepper_motor_control_autogen/mocs_compilation.cpp	aef1838c9526aa86
+2011	2146	7448223888605144	stepper_motor_control.exe	e98486ef71e8c251
+18	132	7448223868571163	C:/Users/monster/Documents/stepper_motor_control/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/stepper_motor_control_autogen/timestamp	aef1838c9526aa86
+755	3650	7448223177127557	CMakeFiles/stepper_motor_control.dir/stepper_motor_control_autogen/mocs_compilation.cpp.obj	938c9fbee6fb7b67
+133	1820	7448223869822650	CMakeFiles/stepper_motor_control.dir/main.cpp.obj	9884c813095f8adc
+135	2011	7448223869843116	CMakeFiles/stepper_motor_control.dir/mainwindow.cpp.obj	b982d07c705390d9

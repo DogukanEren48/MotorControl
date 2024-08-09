@@ -1,0 +1,6 @@
+../Core/Src/a4988.c:3:6:A4988_Init	1
+../Core/Src/a4988.c:21:6:A4988_SetSpeed	1
+../Core/Src/a4988.c:26:6:A4988_SetDirection	1
+../Core/Src/a4988.c:31:6:A4988_Enable	1
+../Core/Src/a4988.c:36:6:A4988_Disable	1
+../Core/Src/a4988.c:41:6:A4988_Step	1
